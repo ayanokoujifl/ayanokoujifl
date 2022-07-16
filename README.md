@@ -1,0 +1,5 @@
+- Prazer, eu sou @ayanokoujifl
+- Meu nome é Luís Gustavo
+- Sou interessado em desenvolvimento web e Java
+- Estudando Js
+- 17 anos
