@@ -20,8 +20,7 @@
     <img align="center" alt="Luis-Java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center"alt="Luis-php" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center"alt="Luis-php" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="right" src="https://i.picasion.com/pic92/a6e3e63869d3f9b6b5099ea942d1c009.gif" alt="Luis.gif"/>
-
+  <img align="right" src="https://discord.com/channels/@me/919254746659966986/998045015379038208"/>
 </div>
 -
   <div> 
