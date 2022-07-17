@@ -1,8 +1,8 @@
 <h1> Prazer, eu sou @ayanokoujifl </h1>
 <ul>
   <li>Meu nome é Luís Gustavo</li>
-  <li>Sou interessado em desenvolvimento Web e Java</li>
-<li>Estudando Js</li>
+  <li>Sou interessado em desenvolvimento Web, Java</li>
+<li>Estudando Javascript e Spring java</li>
 <li>17 anos</li>
   -
 <div align="center">
