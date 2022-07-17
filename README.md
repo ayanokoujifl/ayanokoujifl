@@ -20,7 +20,7 @@
     <img align="center" alt="Luis-Java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center"alt="Luis-php" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center"alt="Luis-php" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/ayanokoujifl/ayanokoujifl/main/MYGIF.gif"/>
+  <img align="right" width="150" height="150" src="https://github.com/ayanokoujifl/ayanokoujifl/blob/main/iconmy2.png"/>
 </div>
 -
   <div> 
