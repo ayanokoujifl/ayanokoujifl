@@ -2,7 +2,7 @@
 <ul>
   <li>Meu nome é Luís Gustavo</li>
   <li>Sou interessado em desenvolvimento Web, Java</li>
-<li>Estudando Javascript e Spring java</li>
+<li>Sempre estudando as tecnologias que já uso e sempre disposto a saber mais</li>
 <li>17 anos</li>
   -
 <div align="center">
