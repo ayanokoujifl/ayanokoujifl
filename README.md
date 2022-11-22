@@ -3,6 +3,7 @@
   <li>Meu nome é Luís Gustavo</li>
   <li>Sou interessado em desenvolvimento Web, Java</li>
 <li>Sempre estudando as tecnologias que já uso e sempre disposto a saber mais</li>
+  <li>Meu prazer e vício é aprender e desenvolver sempre mais</li>
 <li>18 anos</li>
   -
 <div align="center">
