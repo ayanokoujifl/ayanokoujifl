@@ -16,13 +16,10 @@
       />
     </a>
   </div>
-<div style="display:flex; gap:24px;">
+<div align="center">
   <div
     style="
-      display: flex;
-      margin-top: 1rem;
-      justify-content: center;
-      align-items: center;
+    display:inline-block;
     "
   >
     <br />
@@ -83,10 +80,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     />
   </div>
-
-  <div
-    style="display: flex; justify-content: center; margin-top: 1rem; gap: 12px"
-  >
+<br>
+  <div>
     <a href="https://instagram.com/luis_gustavo_dev" target="_blank"
       ><img
         src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
