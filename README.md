@@ -28,6 +28,13 @@
       alt="Luis-Js"
       height="30"
       width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+    />
+    <img
+      align="center"
+      alt="Luis-Js"
+      height="30"
+      width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
     />
     <img
@@ -43,6 +50,13 @@
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    />
+       <img
+      align="center"
+      alt="Luis-angular"
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
     />
     <img
       align="center"
@@ -65,6 +79,13 @@
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
     />
+     <img
+      align="center"
+      alt="Luis-spring"
+      height="40"
+      width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+    />
     <img
       align="center"
       alt="Luis-php"
@@ -74,7 +95,7 @@
     />
     <img
       align="center"
-      alt="Luis-php"
+      alt="Luis-tailwind"
       height="40"
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
