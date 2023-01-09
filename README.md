@@ -1,6 +1,6 @@
-<h1>Prazer, eu sou @ayanokoujifl</h1>
+<h1>Prazer, eu sou Luís Gustavo</h1>
 <ul>
-  <li>Meu nome é Luís Gustavo</li>
+  <li>Meu nome é Luís Gustavo Ferreira Leite</li>
   <li>Sou interessado em desenvolvimento Web, Java</li>
   <li>
     Sempre estudando as tecnologias que já uso e sempre disposto a saber mais
