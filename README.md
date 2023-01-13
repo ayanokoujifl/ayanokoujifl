@@ -12,7 +12,7 @@
     <a href="https://github.com/ayanokoujifl">
       <img
         height="250em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=algolia"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=algolia&layout=compact"
       />
     </a>
   </div>
