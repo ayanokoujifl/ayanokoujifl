@@ -6,6 +6,7 @@
     Sempre estudando as tecnologias que já uso e sempre disposto a saber mais
   </li>
   <li>Meu prazer e vício é aprender e desenvolver sempre mais</li>
+  <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
   <li>18 anos</li>
   -
   <div align="center">
