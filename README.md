@@ -1,13 +1,11 @@
-<h1>Prazer, eu sou Luís Gustavo</h1>
+<h1>Hi, I'm Luís Gustavo Ferreira Leite</h1>
 <ul>
-  <li>Meu nome é Luís Gustavo Ferreira Leite</li>
   <li>Sou interessado em desenvolvimento Web, Java</li>
-  <li>
-    Sempre estudando as tecnologias que já uso e sempre disposto a saber mais
-  </li>
-  <li>Meu prazer e vício é aprender e desenvolver sempre mais</li>
+  <li>Meu prazer e vício é desenvolver sempre mais</li>
   <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
   <li>18 anos</li>
+  -
+  <img src="cartao.jpg"/>
   -
   <div align="center">
     <a href="https://github.com/ayanokoujifl">
