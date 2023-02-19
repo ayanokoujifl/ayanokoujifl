@@ -4,7 +4,7 @@
   <li>Meu prazer e vício é desenvolver sempre mais</li>
   <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
   <li>"A perfeição suprema é ser uma boa pessoa" - Baltasar Gracián(1601-1658)</li>
-  <li>"Não existe habilidade que não possa ser polida e aperfeiçoada, para alcançar a perfeição é necessário refinar-se" - Baltasar Gracián(1601-1658)</li>
+  <li>"Em qualquer coisa que faça, procure ser o melhor, uma especialíssima qualidade entre todas as virtudes possíveis. É indispensável que um grnade homem tenha alguma qualidade revelada, pois o mediano nunca provocará aplausos" - A Arte da Sabedoria, Baltasar Gracián(1601-1658)</li>
   <li>18 anos</li>
   -
   <img src="cartao.jpg"/>
@@ -100,6 +100,13 @@
       height="40"
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    />
+        <img
+      align="center"
+      alt="Luis-tailwind"
+      height="40"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-plain.svg"
     />
   </div>
 <br>
