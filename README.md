@@ -3,6 +3,8 @@
   <li>Sou interessado em desenvolvimento Web, Java</li>
   <li>Meu prazer e vício é desenvolver sempre mais</li>
   <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
+  <li>"A perfeição suprema é ser uma boa pessoa" - Baltasar Gracián(1601-1658)</li>
+  <li>"Não existe habilidade que não possa ser polida e aperfeiçoada, para alcançar a perfeição é necessário refinar-se" - Baltasar Gracián(1601-1658)</li>
   <li>18 anos</li>
   -
   <img src="cartao.jpg"/>
