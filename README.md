@@ -101,13 +101,6 @@
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     />
-        <img
-      align="center"
-      alt="Luis-tailwind"
-      height="40"
-      width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-plain.svg"
-    />
   </div>
 <br>
   <div>
