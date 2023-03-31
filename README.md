@@ -13,7 +13,7 @@
     <a href="https://github.com/ayanokoujifl">
       <img
         height="250em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=gotham&layout=compact"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=gotham&layout=compact&langs_count=10"
       />
     </a>
   </div>
