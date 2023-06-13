@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luís Gustavo Ferreira Leite</h1>
 <ul>
-  <li>Sou interessado em desenvolvimento Web, Java</li>
+  <li>Desenvolvedor - Comando de policiamento rodoviário de minas gerais (CPRv/P3)</li>
   <li>Meu prazer e vício é desenvolver sempre mais</li>
   <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
   <li>"Em qualquer coisa que faça, procure ser o melhor, uma especialíssima qualidade entre todas as virtudes possíveis. É indispensável que um grande homem tenha alguma qualidade revelada, pois o mediano nunca provocará aplausos" - A Arte da Sabedoria, Baltasar Gracián(1601-1658)</li>
