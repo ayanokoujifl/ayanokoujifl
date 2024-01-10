@@ -2,7 +2,6 @@
 <ul>
   <li>Desenvolvedor - PMMG</li>
   <li>Em um nível nuclear</li>
-  <li>Meta fundamental pra 2023? Ler inglês fluentemente! (Ler documentação com tradutor aberto não é legal)</li>
   <li>"Em qualquer coisa que faça, procure ser o melhor, uma especialíssima qualidade entre todas as virtudes possíveis. É indispensável que um grande homem tenha alguma qualidade revelada, pois o mediano nunca provocará aplausos" - A Arte da Sabedoria, Baltasar Gracián(1601-1658)</li>
   <li>19 anos</li>
   -
