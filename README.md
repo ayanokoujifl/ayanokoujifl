@@ -31,7 +31,7 @@
       alt="Luis-Js"
       height="30"
       width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"
     />
     <img
       align="center"
@@ -53,6 +53,13 @@
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    />
+    <img
+      align="center"
+      alt="Luis-php"
+      height="40"
+      width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
     />
        <img
       align="center"
@@ -77,6 +84,13 @@
     />
     <img
       align="center"
+      alt="Luis-CSS"
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+    />
+    <img
+      align="center"
       alt="Luis-Java"
       height="40"
       width="40"
@@ -91,17 +105,17 @@
     />
     <img
       align="center"
-      alt="Luis-php"
+      alt="Luis-tailwind"
       height="40"
       width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
     />
     <img
       align="center"
       alt="Luis-tailwind"
       height="40"
       width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
     />
   </div>
 <br>
