@@ -1,12 +1,10 @@
-<h1>Hi, I'm Luís Gustavo Ferreira Leite</h1>
-<ul>
-  <li>Desenvolvedor - PMMG</li>
-  <li>Em um nível nuclear</li>
-  <li>"Em qualquer coisa que faça, procure ser o melhor, uma especialíssima qualidade entre todas as virtudes possíveis. É indispensável que um grande homem tenha alguma qualidade revelada, pois o mediano nunca provocará aplausos" - A Arte da Sabedoria, Baltasar Gracián(1601-1658)</li>
-  <li>19 anos</li>
-  -
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24e4ee&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=24e4ee&size=36&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hi,+my+name+is+Luís+Gustavo;I'm+20+years+old;I'm+creator+of+dev_atomic_journey;I'm+an+Software+Developer)](https://git.io/typing-svg)
+
+  ----
  <!-- <img src="cartao.jpg"/> -->
-  -
   <div align="center">
     <a href="https://github.com/ayanokoujifl">
       <img 
@@ -49,18 +47,20 @@
     />
     <img
       align="center"
-      alt="Luis-React"
+      alt="React"
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     />
-    <img
+  <!--  <img
       align="center"
       alt="Luis-php"
       height="40"
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-    />
+    /> 
+    -->
+    <!--
        <img
       align="center"
       alt="Luis-angular"
@@ -68,6 +68,7 @@
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
     />
+    -->
     <img
       align="center"
       alt="Luis-HTML"
@@ -134,6 +135,14 @@
       ><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     /></a>
+    <a
+      href="https://dev-atomic-portfolio.vercel.app"
+      target="_blank"
+      >
+      <img width=75 src="https://github.com/user-attachments/assets/9a224de4-283d-4251-a8c3-8374df9a22cf"/>
+
+  </a>
+    
   </div>
   </div>
 </ul>
