@@ -52,23 +52,9 @@
       width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     />
-  <!--  <img
-      align="center"
-      alt="Luis-php"
-      height="40"
-      width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-    /> 
-    -->
-    <!--
-       <img
-      align="center"
-      alt="Luis-angular"
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
-    />
-    -->
+    <img align="center" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align="center" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align="center" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
     <img
       align="center"
       alt="Luis-HTML"
@@ -119,6 +105,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
     />
   </div>
+  
+  ----
 <br>
   <div>
     <a href="https://instagram.com/luis_gustavo_dev" target="_blank"
