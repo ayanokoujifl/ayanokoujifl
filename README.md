@@ -9,11 +9,11 @@
     <a href="https://github.com/ayanokoujifl">
       <img 
            height="250em"
-           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayanokoujifl&theme=github_dark&hide_border=true"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayanokoujifl&theme=tokyonight&hide_border=true"
            />
       <img
         height="250em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=gotham&layout=compact&langs_count=10"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanokoujifl&&show_icons=true&theme=tokyonight&layout=compact&langs_count=10"
       />
     </a>
   </div>
