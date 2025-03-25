@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24e4ee&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=24e4ee&text=Dev%20Atomic%20Journey&section=header&textBg=false&fontColor=f1f0f&fontSize=56&animation=scaleIn&fontAlignY=41"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=24e4ee&size=36&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hi,+my+name+is+Luís+Gustavo;I'm+20+years+old;I'm+creator+of+dev_atomic_journey;I'm+an+Software+Developer)](https://git.io/typing-svg)
