@@ -4,6 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=24e4ee&size=36&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hi,+my+name+is+Luís+Gustavo;I'm+20+years+old;I'm+creator+of+dev_atomic_journey;I'm+an+Software+Developer)](https://git.io/typing-svg)
 
   ----
+  I'm a passionate Software Developer from Brazil 🇧🇷, currently working at the Military Police of Minas Gerais. I enjoy building scalable and efficient applications, and I'm always eager to learn new technologies.
+
+## 🚀 Skills
+
+- **Languages**: Java, JavaScript, TypeScript
+- **Frameworks**: Spring Boot, React, React Native, Next.js
+- **Tools**: Docker, Firebase, Power BI
+- **Design**: Figma
+
  <!-- <img src="cartao.jpg"/> -->
   <div align="center">
     <a href="https://github.com/ayanokoujifl">
@@ -108,6 +117,8 @@
   
   ----
 <br>
+
+## 🔗 Connect with Me
   <div>
     <a href="https://instagram.com/luis_gustavo_dev" target="_blank"
       ><img
@@ -130,6 +141,8 @@
       <img width=75 src="https://github.com/user-attachments/assets/9a224de4-283d-4251-a8c3-8374df9a22cf"/>
 
   </a>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-atomic-portfolio.vercel.app)
     
   </div>
   </div>
